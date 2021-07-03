@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358469821953",
+    "firebase_url": "https://buyitapp-b3132.firebaseio.com",
+    "project_id": "buyitapp-b3132",
+    "storage_bucket": "buyitapp-b3132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358469821953:android:08c8dde6cc71aaaf21c200",
+        "android_client_info": {
+          "package_name": "com.lithy.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358469821953-orlrjhj1bojto8jcu4ilnardf1s1bkqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lithy.e_commerce_app",
+            "certificate_hash": "c10bb2df1c6c4baf38f35fe2c907327b0c24dc67"
+          }
+        },
+        {
+          "client_id": "358469821953-imtrekdg863dcvjigks14rsoj0ifl8nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuJq3BQzqPRdGp19Nw_UN-_yfhiP1PpoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358469821953-imtrekdg863dcvjigks14rsoj0ifl8nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
